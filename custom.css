@@ -1,0 +1,100 @@
+body {
+    background-color: #1d1d1d !important;
+}
+div.jp-RenderedText pre,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    color: #c5c5c5 !important;
+}
+
+div.jp-Notebook-cell {
+    margin-bottom: 10px !important;
+}
+
+div.jp-MarkdownOutput {
+    padding-left: 15px !important;
+}
+
+div.jp-InputArea-editor div.highlight {
+    background-color: #3d3d3d !important;
+    padding: 10px !important;
+}
+
+div.jp-InputArea-editor {
+    border-color: #3d3d3d !important;
+}
+
+div.jp-InputArea-prompt,
+div.jp-OutputArea-prompt {
+    display: none !important;
+}
+
+div.jp-OutputArea-output {
+    background-color: #313131 !important;
+    padding: 10px !important;
+}
+
+div.jp-Cell-outputWrapper {
+    margin-top: 0px !important;
+}
+
+.n {
+    color: #9cdcfe !important;
+}
+
+.p {
+    color: #fcd401 !important;
+}
+
+.nf {
+    color: #dcdcaa !important;
+}
+
+.o + .n:has(+ .p) {
+    color: #dcdcaa !important;
+}
+
+.o {
+    color: #bcbcbc !important;
+}
+
+.s2 {
+    color: #ce9178 !important;
+}
+
+.mi,
+.mf {
+    color: #b5cea8 !important;
+}
+
+.c1 {
+    color: #6a9956 !important;
+    font-style: normal !important;
+}
+
+.kc {
+    color: #569cd6 !important;
+}
+
+.nn {
+    color: #4ec7ae !important;
+}
+
+.kn,
+.k,
+.ow {
+    color: #c586c0 !important;
+}
+
+.nb {
+    color: #d2d2a3 !important;
+}
+
+.se {
+    color: #d2b67b !important;
+}

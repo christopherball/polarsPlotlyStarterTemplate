@@ -1,0 +1,1 @@
+{"columns":[{"name":"integer","datatype":"Int64","bit_settings":"","values":[1,2,3]},{"name":"date","datatype":{"Datetime":["Microseconds",null]},"bit_settings":"","values":[1640995200000000,1641081600000000,1641168000000000]},{"name":"float","datatype":"Float64","bit_settings":"","values":[4.0,5.0,6.0]}]}
